@@ -200,7 +200,7 @@
 
   <url>
     <loc>https://blog.kylechao.xyz/</loc>
-    <lastmod>2020-09-15</lastmod>
+    <lastmod>2020-11-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -208,49 +208,49 @@
   
   <url>
     <loc>https://blog.kylechao.xyz/tags/share/</loc>
-    <lastmod>2020-09-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.kylechao.xyz/tags/python/</loc>
-    <lastmod>2020-09-15</lastmod>
+    <lastmod>2020-11-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.kylechao.xyz/tags/Hexo/</loc>
-    <lastmod>2020-09-15</lastmod>
+    <lastmod>2020-11-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.kylechao.xyz/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2020-09-15</lastmod>
+    <lastmod>2020-11-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.kylechao.xyz/tags/python/</loc>
+    <lastmod>2020-11-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.kylechao.xyz/tags/%E5%9B%BE%E5%BA%8A/</loc>
-    <lastmod>2020-09-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.kylechao.xyz/tags/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/</loc>
-    <lastmod>2020-09-15</lastmod>
+    <lastmod>2020-11-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.kylechao.xyz/tags/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/</loc>
-    <lastmod>2020-09-15</lastmod>
+    <lastmod>2020-11-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.kylechao.xyz/tags/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/</loc>
+    <lastmod>2020-11-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -258,36 +258,36 @@
 
   
   <url>
-    <loc>https://blog.kylechao.xyz/categories/python%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2020-09-15</lastmod>
+    <loc>https://blog.kylechao.xyz/categories/%E6%8A%98%E8%85%BEHexo/</loc>
+    <lastmod>2020-11-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.kylechao.xyz/categories/%E6%8A%98%E8%85%BEHexo/</loc>
-    <lastmod>2020-09-15</lastmod>
+    <loc>https://blog.kylechao.xyz/categories/python%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2020-11-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.kylechao.xyz/categories/%E6%8E%A8%E8%8D%90/</loc>
-    <lastmod>2020-09-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.kylechao.xyz/categories/%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/</loc>
-    <lastmod>2020-09-15</lastmod>
+    <lastmod>2020-11-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.kylechao.xyz/categories/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/</loc>
-    <lastmod>2020-09-15</lastmod>
+    <lastmod>2020-11-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.kylechao.xyz/categories/%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/</loc>
+    <lastmod>2020-11-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
